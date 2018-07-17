@@ -28,6 +28,8 @@ Your daily work will be guided by our partners and customers and you will be dir
 If you know you cannot live up to a commitment, I expect you to promptly notify those who will be impacted.
 Celebrate success, yours and others.
 
+The CSE team has a weekly Rhythm of Business, ROB.  That means that there is a weekly cadence for status reporting.  More details will be provided when available.
+
 A few times when I would like you to chat with me before making a commitment:
 
 - Any commitment that requires you to travel outside of your country or internationally. Travel is expensive and I want to confirm the reasons we are doing this before we commit.
@@ -37,7 +39,8 @@ A few times when I would like you to chat with me before making a commitment:
 I want you to be empowered to make decisions about your projects/activities as much as possible with me serving as a guide. I believe everyone on the team is capable and competent and I will treat you accordingly.  
 
 # Vacation
-With regards to vacation – you do not need to ask for permission to take a vacation. If you have a commitment that you have made, I trust that you won’t take vacation over it. Otherwise, please schedule your vacation and block your calendar. I also ask that when you are on vacation, set an OOF message and fully disconnect. 
+
+With regards to vacation – you do not need to ask for permission to take a vacation. If you have a commitment that you have made, I trust that you won’t take vacation over it. Otherwise, please schedule your vacation and block your calendar. I also ask that when you are on vacation, set an OOF message and fully disconnect. Prior to going on vacation, in order to have a seamless experience, please engage a peer for coverage.  Frequently, I would have someone from the account team (CSA or DSA) cover and I would cover for them when they were out.  You can also work with a peer from our team or someone on the WW Retail team or CSE.  I ask that you use good judgement.
 
 Likewise, if you need to do something personal during work hours you don’t need to ask for permission. Just book it on your calendar as out.  Again, do the right thing. That includes an honest weeks work.
 
