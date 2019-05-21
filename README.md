@@ -5,7 +5,7 @@ One of the most compelling managers I know shared a document which highlighted h
 
 # My job
 
-As Manager of this Retail team, it is my job to:
+As Manager of a team, it is my job to:
 
 - Attract and retain talent
 - Manage and Build well-functioning teams
@@ -13,7 +13,7 @@ As Manager of this Retail team, it is my job to:
   
 # How I approach my job
 
-My basic premise is to do the right thing. I will understand the business and translate that into priorities for the team.  I will ensure that you have what you need to do the job and if there are barriers, we will work together to address them. I am pleasantly persistent and am effective as addressing logjams.  I will also advocate for you and help you grown technically and in your career. I also like what I do and hope the same is true for you.  
+My basic premise is to do the right thing. I will understand the business and translate that into priorities for the team.  I will ensure that you have what you need to do the job and if there are barriers, we will work together to address them. I am pleasantly persistent and am effective at addressing logjams.  I will also advocate for you and help you grow technically and in your career. I also like what I do and hope the same is true for you.  
 
 I am responsible and attentive but I do not want to micro manage anyone.   Your success is ultimately my success, so I will go out of my way to try and make you successful.  
 
@@ -23,7 +23,7 @@ I am frequently on calls or in meetings.  I'm happy to IM via Skype or Teams if 
 
 I expect you to do the right thing.   
 
-Your daily work will be guided by our partners and customers and you will be directly driving it.  If there are barriers, I'll work with you to find ways to get around them or address them.  If there is an issue you cannot manage, or require guidance, please let me know.  I am here to provide guidance and mentorship, either directly or by finding people to help.  Frequently, PMs or Leads will go to you directly.  I am ok with that as you know your availability better than me and it is more efficient than my being in the middle.  I want my role to be to support your decisions on priorities and help you say no when appropriate. One thing to note: if you commit to a project, I expect you to live up to your commitments (barring emergencies).
+Your daily work will be guided by our team priorities.  If there are barriers, I'll work with you to find ways to get around them or address them.  If there is an issue you cannot manage, or require guidance, please let me know.  I am here to provide guidance and mentorship, either directly or by finding people to help.  Frequently, PMs or Leads will go to you directly.  I am ok with that as you know your availability better than me and it is more efficient than my being in the middle.  I want my role to be to support your decisions on priorities and help you say no when appropriate. One thing to note: if you commit to a project, I expect you to live up to your commitments (barring emergencies).
 
 If you know you cannot live up to a commitment, I expect you to promptly notify those who will be impacted.
 Celebrate success, yours and others.
@@ -42,7 +42,7 @@ I want you to be empowered to make decisions about your projects/activities as m
 
 With regards to vacation – you do not need to ask for permission to take a vacation. If you have a commitment that you have made, I trust that you won’t take vacation over it. Otherwise, please schedule your vacation and block your calendar.  Before you go, please send out a non-blocking, no reminder, meeting request to me and others on my team as well as other people you are actively working with. I also ask that when you are on vacation, set an OOTO message and fully disconnect. Prior to going on vacation, in order to have a seamless experience, please engage a peer for coverage.  Frequently, I would have someone from the account team (CSA or DSA) cover and I would cover for them when they were out.  You can also work with a peer from our team or someone on the WW Retail team or CSE.  I ask that you use good judgement.
 
-Before or after you go on vacation, please enter your vacation time in the Time and Reporting tool.
+Before or after you go on vacation, please enter your vacation time in the Time and Reporting too, mark your calendar and notify others.
 
 Likewise, if you need to do something personal during work hours you don’t need to ask for permission. Just book it on your calendar as out.  Again, do the right thing. That includes an honest weeks work.
 
@@ -58,7 +58,7 @@ We'll know more about weekly reports and VSTS soon.
 # 1:1's
 Starting next week, everyone should schedule a weekly, 1:1 with me. I prefer that you schedule the meeting so it works in your time zone and you can avoid interrupting other meetings or work.
 
-One of my key philosophies is that I have a motivated team that I don't need to micromanage.  Your daily work will be guided by our partners and customers and you will be directly driving that.  I like to keep 1:1s less about the status of your work and more about how work is going, how I can be a sounding board for your ideas and if there is anything I can do to guide you, coach you or anything else that can improve your career.  More on that below.
+One of my key philosophies is that I have a motivated team that I don't need to micromanage.  I like to keep 1:1s less about the status of your work and more about how work is going, how I can be a sounding board for your ideas and if there is anything I can do to guide you, coach you or anything else that can improve your career.  More on that below.
 
 If I'm traveling, I may, on occasion need to cancel due to timezone issues or conflicts. If I need to cancel, I can always make time for IMs or a conversation at another time.  
 
@@ -78,7 +78,7 @@ Typically, I believe it is my responsibility to let my management know clearly i
 
 # General Philosophies and Misc
 
-- I assume everyone is coming from a position of positive intent
+- I assume everyone is coming from a position of positive intent.
 - All people in Microsoft have important roles and their lens of impact may be different than mine. I need to respect that as part of our interactions.
 - I am not a fan of surprises. If something is wrong or you made a mistake I prefer to hear about it from you and not someone else. I am ok with mistakes or failures if we are learning from them. I am not ok with hiding a mistake. 
 - I have tried to hire people who naturally have an engineering curiosity. When you have nothing on your plate I expect you will be using your free time to upskill on something new.  Generally, it is expected upskill on items relevant to our org although that's a pretty broad target.
@@ -92,7 +92,7 @@ Typically, I believe it is my responsibility to let my management know clearly i
   - Please pay attention to your calendar and use whatever notification system works for you. There is nothing worse than having a meeting and spending 5 minutes while we IM/Text people to see if they are joining the call. 
   - If you are unable to attend a meeting, please let the organizer know
 - We will listen to each other and not interrupt.
-- Not need to agree but disagree in an agreeable manner.
+- No need to agree but disagree in an agreeable manner.
 - We will make sure everyone has had a chance to speak.
 - We will speak respectfully to each other.
   - Be mindful of our humor.
