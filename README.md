@@ -93,9 +93,10 @@ Typically, I believe it is my responsibility to let my management know clearly i
   - If you are unable to attend a meeting, please let the organizer know
 - We will listen to each other and not interrupt.
 - No need to agree but disagree in an agreeable manner.
+  - I'm a firm believer in disagree and commit. 
 - We will make sure everyone has had a chance to speak.
 - We will speak respectfully to each other.
-  - Be mindful of our humor.
+  - Be mindful of our humor. 
 
 # Summary
 
